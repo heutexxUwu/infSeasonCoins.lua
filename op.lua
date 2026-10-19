@@ -21,4 +21,3 @@ for _ = 1, 5 do
     end)
 end
 repeat task.wait(1) until done
-print("[*] done, rounds:", rounds)
