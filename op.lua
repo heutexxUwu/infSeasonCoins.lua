@@ -1,4 +1,4 @@
---🫩 idk gimne credit pls
+--pls :< @me
 local DS = game:GetService("ReplicatedStorage").Remote.Dungeon_Server
 DS.TryClaimDailyDunTicRE:FireServer()
 task.wait(0.2)
